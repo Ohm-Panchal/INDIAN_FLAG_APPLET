@@ -1,0 +1,6 @@
+To run the applet follow the steps given below:
+1: Download the Animate.java file
+2: Create a new folder and place the Animate.java file in that folder
+3: Open the CommandPrompt(CMD) from that folder and type following commands:
+   javac Animate.java
+   appletviewer Animate.java
